@@ -1,10 +1,10 @@
-# Sentiment Analysis using Machine Learning
+# Algorithm Optimization Toolkit
 
-This project focuses on building a sentiment classification model using natural language processing techniques.
+This project explores classical algorithm implementations and compares their performance.
 
-Key components:
-- Text preprocessing
-- Feature extraction
-- Machine learning classification models
+Topics included:
+- Sorting algorithms
+- Searching algorithms
+- Graph traversal algorithms
 
-The project will analyze text data and classify it as positive, negative, or neutral sentiment.
+The goal is to analyze time complexity and visualize algorithm performance using Python.
